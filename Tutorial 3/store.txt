@@ -1,0 +1,9 @@
+screwD	1516182	2.65	Electric	true
+ladder	1617980	2.76		true
+trolley	1718494	1.45		true
+secat	1818922	2.3		true
+hammer	1719110	1.23	Normal	true
+hammer	1719110	1.23	Normal	true
+ladder	1617980	1.79		true
+secat	1818922	2.45		true
+hammer	1719110	1.23	Normal	true
